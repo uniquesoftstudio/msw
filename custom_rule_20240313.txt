@@ -1,0 +1,74 @@
+watchofree.lol##DIV.alert-bottom[style='display: block;']
+watchofree.lol##DIV#st-2.st-sticky-share-buttons.st-left.st-toggleable.st-has-labels.st-show-total
+watchofree.lol##A#logo[href='https://watchofree.lol']
+watchofree.lol##DIV.mobile-menu
+watchofree.lol##DIV.header-logo
+watchofree.lol##SPAN.pull-left
+watchofree.lol##DIV#mv-keywords
+watchofree.lol##FOOTER
+watchofree.lol##DIV.desc[itemprop='description']
+
+
+minoplres.xyz##DIV#header
+minoplres.xyz##DIV[style='float: left;']
+minoplres.xyz##DIV#pdiv[style='display: table-cell;position:relative;width:980px;height:550px;max-height:550px;']
+minoplres.xyz##DIV[style='border-bottom: 1px solid #ccc; padding-bottom: 5px; margin-bottom: 7px;']
+minoplres.xyz##DIV#undervideo
+minoplres.xyz##H3
+minoplres.xyz##H2
+minoplres.xyz##DIV.box.visible
+
+
+watchomovies.info##DIV#st-2.st-sticky-share-buttons.st-left.st-toggleable.st-has-labels.st-show-total
+watchomovies.info##DIV.mobile-menu
+watchomovies.info##A#logo[href='https://watchomovies.info']
+watchomovies.info##FOOTER
+watchomovies.info##DIV.test_container
+watchomovies.info##DIV.mvic-info
+watchomovies.info##DIV#mv-keywords
+
+
+hdmovie2.chat##DIV.nav
+hdmovie2.chat##DIV.logo
+hdmovie2.chat##DIV.letter_home
+hdmovie2.chat##NAV.genres
+hdmovie2.chat##NAV.releases
+hdmovie2.chat##DIV.fixed-sidebar-blank
+hdmovie2.chat##DIV.dt_social_single
+hdmovie2.chat##DIV.sidebar.right.scrolling.mCustomScrollbar._mCS_1.mCS-autoHide.mCS_no_scrollbar[style='overflow: visible;']
+hdmovie2.chat##DIV.dt-breadcrumb.breadcrumb_bottom
+hdmovie2.chat##DIV#comments.comments-area
+hdmovie2.chat##DIV.sbox.srelacionados
+hdmovie2.chat##DIV#dt_galery.galeria.owl-carousel.owl-theme[style='opacity: 1; display: block;']
+hdmovie2.chat##DIV.single_tabs
+hdmovie2.chat##H2
+hdmovie2.chat##H3[style='text-align: center;']
+hdmovie2.chat##DIV.sgeneros
+hdmovie2.chat##DIV.sidebar.right.scrolling
+
+
+tellyhd.rest##DIV.letter_home
+tellyhd.rest##HEADER
+tellyhd.rest##DIV.sidebar.right.scrolling
+tellyhd.rest##DIV.dt_social_single
+tellyhd.rest##UL.wp-tags
+tellyhd.rest##DIV#dt_galery.galeria.owl-carousel.owl-theme[style='opacity: 1; display: block;']
+tellyhd.rest##DIV.sbox.srelacionados
+tellyhd.rest##DIV.dt-breadcrumb.breadcrumb_bottom
+tellyhd.rest##H3[style='text-align: center;']
+tellyhd.rest##H2
+tellyhd.rest##DIV.single_tabs
+tellyhd.rest##DIV.sgeneros
+tellyhd.rest##DIV.custom_fields
+tellyhd.rest##DIV#comments.extcom
+
+
+desixflix.com##DIV.button-nav
+desixflix.com##DIV.logo
+desixflix.com##FOOTER#colophon.site-footer[role='contentinfo']
+desixflix.com##A#back-to-top.button.show[href='#']
+desixflix.com##DIV#video-about.width70
+desixflix.com##DIV.show-more-related
+desixflix.com##DIV#rating
+desixflix.com##DIV.entry-content
+desixflix.com##A#tracking-url.button
