@@ -28,23 +28,23 @@ watchomovies.info##DIV.mvic-info
 watchomovies.info##DIV#mv-keywords
 
 
-hdmovie2.chat##DIV.nav
-hdmovie2.chat##DIV.logo
-hdmovie2.chat##DIV.letter_home
-hdmovie2.chat##NAV.genres
-hdmovie2.chat##NAV.releases
-hdmovie2.chat##DIV.fixed-sidebar-blank
-hdmovie2.chat##DIV.dt_social_single
-hdmovie2.chat##DIV.sidebar.right.scrolling.mCustomScrollbar._mCS_1.mCS-autoHide.mCS_no_scrollbar[style='overflow: visible;']
-hdmovie2.chat##DIV.dt-breadcrumb.breadcrumb_bottom
-hdmovie2.chat##DIV#comments.comments-area
-hdmovie2.chat##DIV.sbox.srelacionados
-hdmovie2.chat##DIV#dt_galery.galeria.owl-carousel.owl-theme[style='opacity: 1; display: block;']
-hdmovie2.chat##DIV.single_tabs
-hdmovie2.chat##H2
-hdmovie2.chat##H3[style='text-align: center;']
-hdmovie2.chat##DIV.sgeneros
-hdmovie2.chat##DIV.sidebar.right.scrolling
+hdmovie2.money##DIV.nav
+hdmovie2.money##DIV.logo
+hdmovie2.money##DIV.letter_home
+hdmovie2.money##NAV.genres
+hdmovie2.money##NAV.releases
+hdmovie2.money##DIV.fixed-sidebar-blank
+hdmovie2.money##DIV.dt_social_single
+hdmovie2.money##DIV.sidebar.right.scrolling.mCustomScrollbar._mCS_1.mCS-autoHide.mCS_no_scrollbar[style='overflow: visible;']
+hdmovie2.money##DIV.dt-breadcrumb.breadcrumb_bottom
+hdmovie2.money##DIV#comments.comments-area
+hdmovie2.money##DIV.sbox.srelacionados
+hdmovie2.money##DIV#dt_galery.galeria.owl-carousel.owl-theme[style='opacity: 1; display: block;']
+hdmovie2.money##DIV.single_tabs
+hdmovie2.money##H2
+hdmovie2.money##H3[style='text-align: center;']
+hdmovie2.money##DIV.sgeneros
+hdmovie2.money##DIV.sidebar.right.scrolling
 
 
 tellyhd.rest##DIV.letter_home
