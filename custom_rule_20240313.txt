@@ -48,7 +48,8 @@ hdmovie2.dog##DIV.sidebar.right.scrolling
 
 
 tellyhd.pro##DIV.letter_home
-tellyhd.pro##HEADER
+tellyhd.pro##DIV.nav
+tellyhd.pro##DIV.logo
 tellyhd.pro##DIV.sidebar.right.scrolling
 tellyhd.pro##DIV.dt_social_single
 tellyhd.pro##UL.wp-tags
