@@ -76,4 +76,14 @@ desixflix.com##A#tracking-url.button
 desixflix.com##ASIDE#sidebar.widget-area.with-sidebar-right[role='complementary']
 
 
-terabox-test.vercel.app##A.py-0.text-xl.font-bold.text-white.self-center[target='_blank'][rel='noopener noreferrer'][href='https://linktr.ee/teratoolsite']
+mkvin.pro##DIV.nav
+mkvin.pro##DIV.letter_home
+mkvin.pro##DIV.logo
+mkvin.pro##DIV.sidebar.right.scrolling
+mkvin.pro##DIV.single_tabs
+mkvin.pro##DIV.dt_social_single
+mkvin.pro##DIV#comments.comments-area
+mkvin.pro##DIV.dt-breadcrumb.breadcrumb_bottom
+mkvin.pro##DIV.sbox.srelacionados
+mkvin.pro##DIV.sgeneros
+mkvin.pro##DIV#info.sbox
