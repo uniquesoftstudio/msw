@@ -76,14 +76,14 @@ desixflix.com##A#tracking-url.button
 desixflix.com##ASIDE#sidebar.widget-area.with-sidebar-right[role='complementary']
 
 
-mkvin.pro##DIV.nav
-mkvin.pro##DIV.letter_home
-mkvin.pro##DIV.logo
-mkvin.pro##DIV.sidebar.right.scrolling
-mkvin.pro##DIV.single_tabs
-mkvin.pro##DIV.dt_social_single
-mkvin.pro##DIV#comments.comments-area
-mkvin.pro##DIV.dt-breadcrumb.breadcrumb_bottom
-mkvin.pro##DIV.sbox.srelacionados
-mkvin.pro##DIV.sgeneros
-mkvin.pro##DIV#info.sbox
+##DIV.nav
+##DIV.letter_home
+##DIV.logo
+##DIV.sidebar.right.scrolling
+##DIV.single_tabs
+##DIV.dt_social_single
+##DIV#comments.comments-area
+##DIV.dt-breadcrumb.breadcrumb_bottom
+##DIV.sbox.srelacionados
+##DIV.sgeneros
+##DIV#info.sbox
