@@ -8,6 +8,7 @@ watchofree.lol##DIV#mv-keywords
 watchofree.lol##FOOTER
 watchofree.lol##DIV.desc[itemprop='description']
 watchofree.lol##DIV.test_container
+watchofree.lol##DIV#cookiedata.ann-home.alert.text-center[style=' font-size: 16px; font-weight: bold; background: #0c9c0f; color: #fff;']
 
 
 minoplres.xyz##DIV#header
