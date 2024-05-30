@@ -49,21 +49,21 @@ hdmovie2.love##DIV.sgeneros
 hdmovie2.love##DIV.sidebar.right.scrolling
 
 
-tellyhd.pro##DIV.letter_home
-tellyhd.pro##DIV.nav
-tellyhd.pro##DIV.logo
-tellyhd.pro##DIV.sidebar.right.scrolling
-tellyhd.pro##DIV.dt_social_single
-tellyhd.pro##UL.wp-tags
-tellyhd.pro##DIV#dt_galery.galeria.owl-carousel.owl-theme[style='opacity: 1; display: block;']
-tellyhd.pro##DIV.sbox.srelacionados
-tellyhd.pro##DIV.dt-breadcrumb.breadcrumb_bottom
-tellyhd.pro##H3[style='text-align: center;']
-tellyhd.pro##H2
-tellyhd.pro##DIV.single_tabs
-tellyhd.pro##DIV.sgeneros
-tellyhd.pro##DIV.custom_fields
-tellyhd.pro##DIV#comments.extcom
+tellyhd.fun##DIV.letter_home
+tellyhd.fun##DIV.nav
+tellyhd.fun##DIV.logo
+tellyhd.fun##DIV.sidebar.right.scrolling
+tellyhd.fun##DIV.dt_social_single
+tellyhd.fun##UL.wp-tags
+tellyhd.fun##DIV#dt_galery.galeria.owl-carousel.owl-theme[style='opacity: 1; display: block;']
+tellyhd.fun##DIV.sbox.srelacionados
+tellyhd.fun##DIV.dt-breadcrumb.breadcrumb_bottom
+tellyhd.fun##H3[style='text-align: center;']
+tellyhd.fun##H2
+tellyhd.fun##DIV.single_tabs
+tellyhd.fun##DIV.sgeneros
+tellyhd.fun##DIV.custom_fields
+tellyhd.fun##DIV#comments.extcom
 
 
 desixflix.com##DIV.button-nav
