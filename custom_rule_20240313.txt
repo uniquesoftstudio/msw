@@ -1,14 +1,14 @@
-watchofree.lol##DIV.alert-bottom[style='display: block;']
-watchofree.lol##DIV#st-2.st-sticky-share-buttons.st-left.st-toggleable.st-has-labels.st-show-total
-watchofree.lol##A#logo[href='https://watchofree.lol']
-watchofree.lol##DIV.mobile-menu
-watchofree.lol##DIV.header-logo
-watchofree.lol##SPAN.pull-left
-watchofree.lol##DIV#mv-keywords
-watchofree.lol##FOOTER
-watchofree.lol##DIV.desc[itemprop='description']
-watchofree.lol##DIV.test_container
-watchofree.lol##DIV#cookiedata.ann-home.alert.text-center[style=' font-size: 16px; font-weight: bold; background: #0c9c0f; color: #fff;']
+watchofree.pro##DIV.alert-bottom[style='display: block;']
+watchofree.pro##DIV#st-2.st-sticky-share-buttons.st-left.st-toggleable.st-has-labels.st-show-total
+watchofree.pro##A#logo[href='https://watchofree.pro']
+watchofree.pro##DIV.mobile-menu
+watchofree.pro##DIV.header-logo
+watchofree.pro##SPAN.pull-left
+watchofree.pro##DIV#mv-keywords
+watchofree.pro##FOOTER
+watchofree.pro##DIV.desc[itemprop='description']
+watchofree.pro##DIV.test_container
+watchofree.pro##DIV#cookiedata.ann-home.alert.text-center[style=' font-size: 16px; font-weight: bold; background: #0c9c0f; color: #fff;']
 
 
 minoplres.xyz##DIV#header
