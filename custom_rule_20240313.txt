@@ -30,23 +30,23 @@ watchomovies.info##DIV.mvic-info
 watchomovies.info##DIV#mv-keywords
 
 
-hdmovie2.vet##DIV.nav
-hdmovie2.vet##DIV.logo
-hdmovie2.vet##DIV.letter_home
-hdmovie2.vet##NAV.genres
-hdmovie2.vet##NAV.releases
-hdmovie2.vet##DIV.fixed-sidebar-blank
-hdmovie2.vet##DIV.dt_social_single
+hdmovie2.sale##DIV.nav
+hdmovie2.sale##DIV.logo
+hdmovie2.sale##DIV.letter_home
+hdmovie2.sale##NAV.genres
+hdmovie2.sale##NAV.releases
+hdmovie2.sale##DIV.fixed-sidebar-blank
+hdmovie2.sale##DIV.dt_social_single
 hdmovie2.vet##DIV.sidebar.right.scrolling.mCustomScrollbar._mCS_1.mCS-autoHide.mCS_no_scrollbar[style='overflow: visible;']
 hdmovie2.vet##DIV.dt-breadcrumb.breadcrumb_bottom
-hdmovie2.vet##DIV#comments.comments-area
-hdmovie2.vet##DIV.sbox.srelacionados
-hdmovie2.vet##DIV#dt_galery.galeria.owl-carousel.owl-theme[style='opacity: 1; display: block;']
-hdmovie2.vet##DIV.single_tabs
-hdmovie2.vet##H2
-hdmovie2.vet##H3[style='text-align: center;']
-hdmovie2.vet##DIV.sgeneros
-hdmovie2.vet##DIV.sidebar.right.scrolling
+hdmovie2.sale##DIV#comments.comments-area
+hdmovie2.sale##DIV.sbox.srelacionados
+hdmovie2.sale##DIV#dt_galery.galeria.owl-carousel.owl-theme[style='opacity: 1; display: block;']
+hdmovie2.sale##DIV.single_tabs
+hdmovie2.sale##H2
+hdmovie2.sale##H3[style='text-align: center;']
+hdmovie2.sale##DIV.sgeneros
+hdmovie2.sale##DIV.sidebar.right.scrolling
 
 
 tellyhd.fun##DIV.letter_home
