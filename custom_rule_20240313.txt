@@ -78,14 +78,14 @@ desixflix.com##A#tracking-url.button
 desixflix.com##ASIDE#sidebar.widget-area.with-sidebar-right[role='complementary']
 
 
-mkvin.org##DIV.nav
-mkvin.org##DIV.letter_home
-mkvin.org##DIV.logo
-mkvin.org##DIV.sidebar.right.scrolling
-mkvin.org##DIV.single_tabs
-mkvin.org##DIV.dt_social_single
-mkvin.org##DIV#comments.comments-area
-mkvin.org##DIV.dt-breadcrumb.breadcrumb_bottom
-mkvin.org##DIV.sbox.srelacionados
-mkvin.org##DIV.sgeneros
-mkvin.org##DIV#info.sbox
+mkvin.live##DIV.nav
+mkvin.live##DIV.letter_home
+mkvin.live##DIV.logo
+mkvin.live##DIV.sidebar.right.scrolling
+mkvin.live##DIV.single_tabs
+mkvin.live##DIV.dt_social_single
+mkvin.live##DIV#comments.comments-area
+mkvin.live##DIV.dt-breadcrumb.breadcrumb_bottom
+mkvin.live##DIV.sbox.srelacionados
+mkvin.live##DIV.sgeneros
+mkvin.live##DIV#info.sbox
