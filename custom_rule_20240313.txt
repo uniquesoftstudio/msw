@@ -64,6 +64,7 @@ tellyhd.click##DIV.single_tabs
 tellyhd.click##DIV.sgeneros
 tellyhd.click##DIV.custom_fields
 tellyhd.click##DIV#comments.extcom
+tellyhd.click##DIV.textwidget.custom-html-widget
 
 
 desixflix.com##DIV.button-nav
