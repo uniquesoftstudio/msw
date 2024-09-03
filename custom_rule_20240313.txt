@@ -49,22 +49,22 @@ hdmovie2.moe##DIV.sgeneros
 hdmovie2.moe##DIV.sidebar.right.scrolling
 
 
-tellyhd.net##DIV.letter_home
-tellyhd.net##DIV.nav
-tellyhd.net##DIV.logo
-tellyhd.net##DIV.sidebar.right.scrolling
-tellyhd.net##DIV.dt_social_single
-tellyhd.net##UL.wp-tags
-tellyhd.net##DIV#dt_galery.galeria.owl-carousel.owl-theme[style='opacity: 1; display: block;']
-tellyhd.net##DIV.sbox.srelacionados
-tellyhd.net##DIV.dt-breadcrumb.breadcrumb_bottom
-tellyhd.net##H3[style='text-align: center;']
-tellyhd.net##H2
-tellyhd.net##DIV.single_tabs
-tellyhd.net##DIV.sgeneros
-tellyhd.net##DIV.custom_fields
-tellyhd.net##DIV#comments.extcom
-tellyhd.net##DIV.textwidget.custom-html-widget
+tellyhd.life##DIV.letter_home
+tellyhd.life##DIV.nav
+tellyhd.life##DIV.logo
+tellyhd.life##DIV.sidebar.right.scrolling
+tellyhd.life##DIV.dt_social_single
+tellyhd.life##UL.wp-tags
+tellyhd.life##DIV#dt_galery.galeria.owl-carousel.owl-theme[style='opacity: 1; display: block;']
+tellyhd.life##DIV.sbox.srelacionados
+tellyhd.life##DIV.dt-breadcrumb.breadcrumb_bottom
+tellyhd.life##H3[style='text-align: center;']
+tellyhd.life##H2
+tellyhd.life##DIV.single_tabs
+tellyhd.life##DIV.sgeneros
+tellyhd.life##DIV.custom_fields
+tellyhd.life##DIV#comments.extcom
+tellyhd.life##DIV.textwidget.custom-html-widget
 
 
 desixflix.com##DIV.button-nav
@@ -79,17 +79,17 @@ desixflix.com##A#tracking-url.button
 desixflix.com##ASIDE#sidebar.widget-area.with-sidebar-right[role='complementary']
 
 
-mkvin.skin##DIV.nav
-mkvin.skin##DIV.letter_home
-mkvin.skin##DIV.logo
-mkvin.skin##DIV.sidebar.right.scrolling
-mkvin.skin##DIV.single_tabs
-mkvin.skin##DIV.dt_social_single
-mkvin.skin##DIV#comments.comments-area
-mkvin.skin##DIV.dt-breadcrumb.breadcrumb_bottom
-mkvin.skin##DIV.sbox.srelacionados
-mkvin.skin##DIV.sgeneros
-mkvinclic##DIV#info.sbox
+mkvin.life##DIV.nav
+mkvin.life##DIV.letter_home
+mkvin.life##DIV.logo
+mkvin.life##DIV.sidebar.right.scrolling
+mkvin.life##DIV.single_tabs
+mkvin.life##DIV.dt_social_single
+mkvin.life##DIV#comments.comments-area
+mkvin.life##DIV.dt-breadcrumb.breadcrumb_bottom
+mkvin.life##DIV.sbox.srelacionados
+mkvin.life##DIV.sgeneros
+mkvin.ln##DIV#info.sbox
 
 
 hdmovie20.com##DIV.nav
