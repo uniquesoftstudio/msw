@@ -7,7 +7,7 @@ ixiporn.info##DIV.menu-footer-menu-container
 ixiporn.info##SECTION#block-24.widget.widget_block.widget_tag_cloud
 ixiporn.info##DIV#wrapper-footer
 ixiporn.info##DIV.hero-text
-
+ixiporn.info##A.logo-img[rel='home'][href='https://ixiporn.info/']
 
 
 watchofree.pro##DIV.alert-bottom[style='display: block;']
