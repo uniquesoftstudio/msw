@@ -1,5 +1,4 @@
 ixiporn.info##BUTTON.navbar-toggler.hamburger.hamburger--slider[type='button'][data-toggle='collapse'][data-target='#navbarNavDropdown'][aria-controls='navbarNavDropdown'][aria-expanded='false'][aria-label='Toggle navigation']
-ixiporn.info##IMG.loading[src='https://ixiporn.info/wp-content/uploads/2020/12/logo2.png'][alt='Free xxx videos, sex video, porn videos, xxx videos'][data-was-processed='true']
 ixiporn.info##H1.widget-title.mt-4
 ixiporn.info##DIV.video-actions-content
 ixiporn.info##SPAN.post-like
