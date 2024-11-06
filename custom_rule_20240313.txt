@@ -60,22 +60,22 @@ hdmovie2.moe##DIV.sgeneros
 hdmovie2.moe##DIV.sidebar.right.scrolling
 
 
-tellyhd.skin##DIV.letter_home
-tellyhd.skin##DIV.nav
-tellyhd.skin##DIV.logo
-tellyhd.skin##DIV.sidebar.right.scrolling
-tellyhd.skin##DIV.dt_social_single
-tellyhd.skin##UL.wp-tags
-tellyhd.skin##DIV#dt_galery.galeria.owl-carousel.owl-theme[style='opacity: 1; display: block;']
-tellyhd.skin##DIV.sbox.srelacionados
-tellyhd.skin##DIV.dt-breadcrumb.breadcrumb_bottom
-tellyhd.skin##H3[style='text-align: center;']
-tellyhd.skin##H2
-tellyhd.skin##DIV.single_tabs
-tellyhd.skin##DIV.sgeneros
-tellyhd.skin##DIV.custom_fields
-tellyhd.skin##DIV#comments.extcom
-tellyhd.skin##DIV.textwidget.custom-html-widget
+tellyhd.live##DIV.letter_home
+tellyhd.live##DIV.nav
+tellyhd.live##DIV.logo
+tellyhd.live##DIV.sidebar.right.scrolling
+tellyhd.live##DIV.dt_social_single
+tellyhd.live##UL.wp-tags
+tellyhd.live##DIV#dt_galery.galeria.owl-carousel.owl-theme[style='opacity: 1; display: block;']
+tellyhd.live##DIV.sbox.srelacionados
+tellyhd.live##DIV.dt-breadcrumb.breadcrumb_bottom
+tellyhd.live##H3[style='text-align: center;']
+tellyhd.live##H2
+tellyhd.live##DIV.single_tabs
+tellyhd.live##DIV.sgeneros
+tellyhd.live##DIV.custom_fields
+tellyhd.live##DIV#comments.extcom
+tellyhd.live##DIV.textwidget.custom-html-widget
 
 
 desixflix.com##DIV.button-nav
@@ -90,17 +90,17 @@ desixflix.com##A#tracking-url.button
 desixflix.com##ASIDE#sidebar.widget-area.with-sidebar-right[role='complementary']
 
 
-mkvin.hair##DIV.nav
-mkvin.hair##DIV.letter_home
-mkvin.hair##DIV.logo
-mkvin.hair##DIV.sidebar.right.scrolling
-mkvin.hair##DIV.single_tabs
-mkvin.hair##DIV.dt_social_single
-mkvin.hair##DIV#comments.comments-area
-mkvin.hair##DIV.dt-breadcrumb.breadcrumb_bottom
-mkvin.hair##DIV.sbox.srelacionados
-mkvin.hair##DIV.sgeneros
-mkvin.hair##DIV#info.sbox
+mkvin.ink##DIV.nav
+mkvin.ink##DIV.letter_home
+mkvin.ink##DIV.logo
+mkvin.ink##DIV.sidebar.right.scrolling
+mkvin.ink##DIV.single_tabs
+mkvin.ink##DIV.dt_social_single
+mkvin.ink##DIV#comments.comments-area
+mkvin.ink##DIV.dt-breadcrumb.breadcrumb_bottom
+mkvin.ink##DIV.sbox.srelacionados
+mkvin.ink##DIV.sgeneros
+mkvin.ink##DIV#info.sbox
 
 
 hdmovie20.com##DIV.nav
