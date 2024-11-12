@@ -1,0 +1,14 @@
+dotmovies.ooo##span[style^="font-family: "]
+dotmovies.ooo##div[class="entry-content "]>p
+dotmovies.ooo##div[class="container"]
+dotmovies.ooo##h3[style="text-align: center;"]
+dotmovies.ooo##h5[class="wp-block-heading has-text-align-center"]
+dotmovies.ooo##div[class="entry-content "]>hr
+dotmovies.ooo##div[class="entry-meta"]
+dotmovies.ooo##div[id="header-social"]
+dotmovies.ooo##div[class="comments-area"]
+dotmovies.ooo##aside[id="main-sidebar"]
+dotmovies.ooo##footer[id="site-footer"]
+dotmovies.ooo##div[class="site__row nav-breadcrumbs-elm"]
+dotmovies.ooo##div[id="site-wrap-children"]>center
+dotmovies.ooo##div[id="header-category"]
