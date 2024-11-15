@@ -90,17 +90,17 @@ desixflix.com##A#tracking-url.button
 desixflix.com##ASIDE#sidebar.widget-area.with-sidebar-right[role='complementary']
 
 
-mkvin.ink##DIV.nav
-mkvin.ink##DIV.letter_home
-mkvin.ink##DIV.logo
-mkvin.ink##DIV.sidebar.right.scrolling
-mkvin.ink##DIV.single_tabs
-mkvin.ink##DIV.dt_social_single
-mkvin.ink##DIV#comments.comments-area
-mkvin.ink##DIV.dt-breadcrumb.breadcrumb_bottom
-mkvin.ink##DIV.sbox.srelacionados
-mkvin.ink##DIV.sgeneros
-mkvin.ink##DIV#info.sbox
+mkvin.pics##DIV.nav
+mkvin.pics##DIV.letter_home
+mkvin.pics##DIV.logo
+mkvin.pics##DIV.sidebar.right.scrolling
+mkvin.pics##DIV.single_tabs
+mkvin.pics##DIV.dt_social_single
+mkvin.pics##DIV#comments.comments-area
+mkvin.pics##DIV.dt-breadcrumb.breadcrumb_bottom
+mkvin.pics##DIV.sbox.srelacionados
+mkvin.pics##DIV.sgeneros
+mkvin.pics##DIV#info.sbox
 
 
 
