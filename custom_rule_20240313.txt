@@ -60,22 +60,22 @@ hdmovie2.moe##DIV.sgeneros
 hdmovie2.moe##DIV.sidebar.right.scrolling
 
 
-tellyhd.live##DIV.letter_home
-tellyhd.live##DIV.nav
-tellyhd.live##DIV.logo
-tellyhd.live##DIV.sidebar.right.scrolling
-tellyhd.live##DIV.dt_social_single
-tellyhd.live##UL.wp-tags
-tellyhd.live##DIV#dt_galery.galeria.owl-carousel.owl-theme[style='opacity: 1; display: block;']
-tellyhd.live##DIV.sbox.srelacionados
-tellyhd.live##DIV.dt-breadcrumb.breadcrumb_bottom
-tellyhd.live##H3[style='text-align: center;']
-tellyhd.live##H2
-tellyhd.live##DIV.single_tabs
-tellyhd.live##DIV.sgeneros
-tellyhd.live##DIV.custom_fields
-tellyhd.live##DIV#comments.extcom
-tellyhd.live##DIV.textwidget.custom-html-widget
+tellyhd.club##DIV.letter_home
+tellyhd.club##DIV.nav
+tellyhd.club##DIV.logo
+tellyhd.club##DIV.sidebar.right.scrolling
+tellyhd.club##DIV.dt_social_single
+tellyhd.club##UL.wp-tags
+tellyhd.club##DIV#dt_galery.galeria.owl-carousel.owl-theme[style='opacity: 1; display: block;']
+tellyhd.club##DIV.sbox.srelacionados
+tellyhd.club##DIV.dt-breadcrumb.breadcrumb_bottom
+tellyhd.club##H3[style='text-align: center;']
+tellyhd.club##H2
+tellyhd.club##DIV.single_tabs
+tellyhd.club##DIV.sgeneros
+tellyhd.club##DIV.custom_fields
+tellyhd.club##DIV#comments.extcom
+tellyhd.club##DIV.textwidget.custom-html-widget
 
 
 desixflix.com##DIV.button-nav
@@ -118,6 +118,8 @@ dotmovies.ooo##footer[id="site-footer"]
 dotmovies.ooo##div[class="site__row nav-breadcrumbs-elm"]
 dotmovies.ooo##div[id="site-wrap-children"]>center
 dotmovies.ooo##div[id="header-category"]
+
+
 hdmovie20.com##DIV.nav
 hdmovie20.com##DIV.search
 hdmovie20.com##DIV.logo
