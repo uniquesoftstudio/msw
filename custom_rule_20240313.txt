@@ -120,20 +120,22 @@ dotmovies.ooo##div[id="site-wrap-children"]>center
 dotmovies.ooo##div[id="header-category"]
 
 
-hdmovie20.com##DIV.nav
-hdmovie20.com##DIV.search
-hdmovie20.com##DIV.logo
-hdmovie20.com##H2
-hdmovie20.com##NAV.releases
-hdmovie20.com##DIV#info.sbox
-hdmovie20.com##DIV.single_tabs
-hdmovie20.com##DIV.sbox.srelacionados
-hdmovie20.com##DIV.dt-breadcrumb.breadcrumb_bottom
-hdmovie20.com##DIV.dt_social_single
-hdmovie20.com##DIV.sbox
-hdmovie20.com##DIV.sgeneros
-hdmovie20.com##UL.glossary
-hdmovie20.com##DIV.letter_home
+hdmovie.com##aside[id="dtw_content_views-2"]
+hdmovie.com##nav[class="releases"]
+hdmovie.com##a[class="lglossary"]
+hdmovie.com##div[class="fixresp"]
+hdmovie.com##a[href$="hdmovie20.procom"]
+hdmovie.com##nav[class="genres"]
+hdmovie.com##ul[id="section"]
+hdmovie.com##div[id="info"]
+hdmovie.com##div[class="sbox srelacionados"]
+hdmovie.com##div[class="dt-breadcrumb breadcrumb_bottom"]
+hdmovie.com##div[class="sidebar right scrolling"]
+hdmovie.com##a[class="whatsapp dt_social"]
+hdmovie.com##div[class="dt_social_single"]
+hdmovie.com##div[class="sgeneros"]
+hdmovie.com##img[alt="Hdmovie20"]
+hdmovie.com##a[class="aresp nav-resp"]
 
 
 
