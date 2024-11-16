@@ -119,23 +119,7 @@ dotmovies.ooo##div[class="site__row nav-breadcrumbs-elm"]
 dotmovies.ooo##div[id="site-wrap-children"]>center
 dotmovies.ooo##div[id="header-category"]
 
-
-hdmovie20.com##aside[id="dtw_content_views-2"]
-hdmovie20.com##nav[class="releases"]
-hdmovie20.com##a[class="lglossary"]
-hdmovie20.com##div[class="fixresp"]
-hdmovie20.com##a[href$="hdmovie20.procom"]
-hdmovie20.com##nav[class="genres"]
-hdmovie20.com##ul[id="section"]
-hdmovie20.com##div[id="info"]
-hdmovie20.com##div[class="sbox srelacionados"]
-hdmovie20.com##div[class="dt-breadcrumb breadcrumb_bottom"]
-hdmovie20.com##div[class="sidebar right scrolling"]
-hdmovie20.com##a[class="whatsapp dt_social"]
-hdmovie20.com##div[class="dt_social_single"]
-hdmovie20.com##div[class="sgeneros"]
-hdmovie20.com##img[alt="Hdmovie20"]
-hdmovie20.com##a[class="aresp nav-resp"]
+hdmovie20.com##div[class="logo"]
 
 
 
