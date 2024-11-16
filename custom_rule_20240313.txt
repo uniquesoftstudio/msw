@@ -136,3 +136,16 @@ play.niazitv.pk##a[class="uk-button uk-button-link uk-text-muted uk-button-large
 play.niazitv.pk##nav[id="tm-header"]
 play.niazitv.pk##button[class="uk-button uk-button-default uk-margin-medium-bottom"]
 play.niazitv.pk##h1[class="uk-heading-small pagetitle"]
+
+
+
+moviehax.org##div[id="wpfront-notification-bar-spacer"]
+moviehax.org##h1[style="text-align: center;"]
+moviehax.org##div[class="fixresp"]
+moviehax.org##img[class="wp-image-87653"]
+moviehax.org##div[class="desc_category"]>p
+moviehax.org##nav[class="releases"]
+moviehax.org##img[class="wp-image-87653 mCS_img_loaded"]
+moviehax.org##a[class="aresp nav-resp"]
+moviehax.org##img[alt="Moviehax"]
+moviehax.org##div[class="logo"]
