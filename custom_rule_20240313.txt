@@ -134,3 +134,19 @@ hdmovie20.com##DIV.sbox
 hdmovie20.com##DIV.sgeneros
 hdmovie20.com##UL.glossary
 hdmovie20.com##DIV.letter_home
+
+
+
+play.niazitv.pk##div[class="pagebody"]
+play.niazitv.pk##dl[class="uk-description-list-horizontal uk-margin-top"]
+play.niazitv.pk##ul[class="uk-subnav uk-subnav-line"]>li
+play.niazitv.pk##a[class="uk-button uk-button-large uk-button-default uk-width-1-1"]
+play.niazitv.pk##h4[class="sectiontitle"]
+play.niazitv.pk##div[class="uk-box-border"]
+play.niazitv.pk##footer[id="tm-footer"]
+play.niazitv.pk##p[class="uk-text-center uk-text-muted uk-text-small"]
+play.niazitv.pk##div[id="mCSB_1_container"]
+play.niazitv.pk##a[class="uk-button uk-button-link uk-text-muted uk-button-large uk-width-1-1 uk-margin-top uk-margin-bottom"]
+play.niazitv.pk##nav[id="tm-header"]
+play.niazitv.pk##button[class="uk-button uk-button-default uk-margin-medium-bottom"]
+play.niazitv.pk##h1[class="uk-heading-small pagetitle"]
