@@ -1,3 +1,16 @@
+imotv.online##h2[class="block-title border border-danger p-3"]
+imotv.online##div[class="main-footer mt-5"]
+imotv.online##a[href="../category/indian-bangla-channel"]
+imotv.online##div[class="small-cards"]
+imotv.online##div[class="main-card"]
+imotv.online##h2[class="block-title mt-5"]
+imotv.online##div[class="back-to-top"]
+imotv.online##img[class="logo"]
+imotv.online##header[class="main-nav clearfix is-sticky mb-3"]
+
+
+
+
 ixiporn.info##BUTTON.navbar-toggler.hamburger.hamburger--slider[type='button'][data-toggle='collapse'][data-target='#navbarNavDropdown'][aria-controls='navbarNavDropdown'][aria-expanded='false'][aria-label='Toggle navigation']
 ixiporn.info##H1.widget-title.mt-4
 ixiporn.info##DIV.video-actions-content
@@ -167,14 +180,3 @@ moviehax.org##img[class="wp-image-87653"]
 moviehax.org##div[class="desc_category"]>p
 moviehax.org##nav[class="releases"]>h2
 
-
-
-imotv.online##h2[class="block-title border border-danger p-3"]
-imotv.online##div[class="main-footer mt-5"]
-imotv.online##a[href="../category/indian-bangla-channel"]
-imotv.online##div[class="small-cards"]
-imotv.online##div[class="main-card"]
-imotv.online##h2[class="block-title mt-5"]
-imotv.online##div[class="back-to-top"]
-imotv.online##img[class="logo"]
-imotv.online##header[class="main-nav clearfix is-sticky mb-3"]
