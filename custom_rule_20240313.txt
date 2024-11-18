@@ -1,3 +1,5 @@
+hdmovie20.com##div[class="logo"]
+
 imotv.online##h2[class="block-title border border-danger p-3"]
 imotv.online##div[class="main-footer mt-5"]
 imotv.online##a[href="../category/indian-bangla-channel"]
@@ -8,9 +10,6 @@ imotv.online##div[class="back-to-top"]
 imotv.online##img[class="logo"]
 imotv.online##header[class="main-nav clearfix is-sticky mb-3"]
 
-
-
-
 ixiporn.info##BUTTON.navbar-toggler.hamburger.hamburger--slider[type='button'][data-toggle='collapse'][data-target='#navbarNavDropdown'][aria-controls='navbarNavDropdown'][aria-expanded='false'][aria-label='Toggle navigation']
 ixiporn.info##H1.widget-title.mt-4
 ixiporn.info##DIV.video-actions-content
@@ -20,7 +19,6 @@ ixiporn.info##SECTION#block-24.widget.widget_block.widget_tag_cloud
 ixiporn.info##DIV#wrapper-footer
 ixiporn.info##DIV.hero-text
 ixiporn.info##A.logo-img[rel='home'][href='https://ixiporn.info/']
-
 
 watchofree.pro##DIV.alert-bottom[style='display: block;']
 watchofree.pro##DIV#st-2.st-sticky-share-buttons.st-left.st-toggleable.st-has-labels.st-show-total
@@ -34,17 +32,6 @@ watchofree.pro##DIV.desc[itemprop='description']
 watchofree.pro##DIV.test_container
 watchofree.pro##DIV#cookiedata.ann-home.alert.text-center[style=' font-size: 16px; font-weight: bold; background: #0c9c0f; color: #fff;']
 
-
-minoplres.xyz##DIV#header
-minoplres.xyz##DIV[style='float: left;']
-minoplres.xyz##DIV#pdiv[style='display: table-cell;position:relative;width:980px;height:550px;max-height:550px;']
-minoplres.xyz##DIV[style='border-bottom: 1px solid #ccc; padding-bottom: 5px; margin-bottom: 7px;']
-minoplres.xyz##DIV#undervideo
-minoplres.xyz##H3
-minoplres.xyz##H2
-minoplres.xyz##DIV.box.visible
-
-
 watchomovies.info##DIV#st-2.st-sticky-share-buttons.st-left.st-toggleable.st-has-labels.st-show-total
 watchomovies.info##DIV.mobile-menu
 watchomovies.info##A#logo[href='https://watchomovies.info']
@@ -52,7 +39,6 @@ watchomovies.info##FOOTER
 watchomovies.info##DIV.test_container
 watchomovies.info##DIV.mvic-info
 watchomovies.info##DIV#mv-keywords
-
 
 hdmovie2.moe##DIV.nav
 hdmovie2.moe##DIV.logo
@@ -72,7 +58,6 @@ hdmovie2.moe##H3[style='text-align: center;']
 hdmovie2.moe##DIV.sgeneros
 hdmovie2.moe##DIV.sidebar.right.scrolling
 
-
 tellyhd.club##DIV.letter_home
 tellyhd.club##DIV.nav
 tellyhd.club##DIV.logo
@@ -90,19 +75,6 @@ tellyhd.club##DIV.custom_fields
 tellyhd.club##DIV#comments.extcom
 tellyhd.club##DIV.textwidget.custom-html-widget
 
-
-desixflix.com##DIV.button-nav
-desixflix.com##DIV.logo
-desixflix.com##FOOTER#colophon.site-footer[role='contentinfo']
-desixflix.com##A#back-to-top.button.show[href='#']
-desixflix.com##DIV#video-about.width70
-desixflix.com##DIV.show-more-related
-desixflix.com##DIV#rating
-desixflix.com##DIV.entry-content
-desixflix.com##A#tracking-url.button
-desixflix.com##ASIDE#sidebar.widget-area.with-sidebar-right[role='complementary']
-
-
 mkvin.pics##DIV.nav
 mkvin.pics##DIV.letter_home
 mkvin.pics##DIV.logo
@@ -114,8 +86,6 @@ mkvin.pics##DIV.dt-breadcrumb.breadcrumb_bottom
 mkvin.pics##DIV.sbox.srelacionados
 mkvin.pics##DIV.sgeneros
 mkvin.pics##DIV#info.sbox
-
-
 
 dotmovies.ooo##span[style^="font-family: "]
 dotmovies.ooo##div[class="entry-content "]>p
@@ -131,10 +101,6 @@ dotmovies.ooo##footer[id="site-footer"]
 dotmovies.ooo##div[class="site__row nav-breadcrumbs-elm"]
 dotmovies.ooo##div[id="site-wrap-children"]>center
 dotmovies.ooo##div[id="header-category"]
-
-hdmovie20.com##div[class="logo"]
-
-
 
 play.niazitv.pk##div[class="pagebody"]
 play.niazitv.pk##dl[class="uk-description-list-horizontal uk-margin-top"]
