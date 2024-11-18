@@ -169,4 +169,12 @@ moviehax.org##nav[class="releases"]>h2
 
 
 
-
+imotv.online##h2[class="block-title border border-danger p-3"]
+imotv.online##div[class="main-footer mt-5"]
+imotv.online##a[href="../category/indian-bangla-channel"]
+imotv.online##div[class="small-cards"]
+imotv.online##div[class="main-card"]
+imotv.online##h2[class="block-title mt-5"]
+imotv.online##div[class="back-to-top"]
+imotv.online##img[class="logo"]
+imotv.online##header[class="main-nav clearfix is-sticky mb-3"]
