@@ -1,4 +1,3 @@
-hdmovie20.com##div[class="logo"]
 
 imotv.online##h2[class="block-title border border-danger p-3"]
 imotv.online##div[class="main-footer mt-5"]
@@ -115,6 +114,7 @@ play.niazitv.pk##a[class="uk-button uk-button-link uk-text-muted uk-button-large
 play.niazitv.pk##nav[id="tm-header"]
 play.niazitv.pk##button[class="uk-button uk-button-default uk-margin-medium-bottom"]
 play.niazitv.pk##h1[class="uk-heading-small pagetitle"]
+play.niazitv.pk##a[class="uk-button uk-button-primary uk-button-active uk-button-large uk-width-1-1 uk-margin-top"]
 
 moviehax.org##div[id="wpfront-notification-bar-spacer"]
 moviehax.org##h1[style="text-align: center;"]
