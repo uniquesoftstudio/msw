@@ -1,8 +1,6 @@
 new.msw-app.com##marquee[style="transform: translateY(-8.4rem); color: #D03030; font-weight: bold; font-size: 15px;"]
 new.msw-app.com##img[src$="images/icons/home.png"]
 
-tellyhd.club##div[id="info"]
-
 imotv.online##h2[class="block-title border border-danger p-3"]
 imotv.online##div[class="main-footer mt-5"]
 imotv.online##a[href="../category/indian-bangla-channel"]
@@ -76,7 +74,6 @@ tellyhd.club##DIV.single_tabs
 tellyhd.club##DIV.sgeneros
 tellyhd.club##DIV.custom_fields
 tellyhd.club##DIV#comments.extcom
-tellyhd.club##DIV.textwidget.custom-html-widget
 
 mkvin.pics##DIV.nav
 mkvin.pics##DIV.letter_home
