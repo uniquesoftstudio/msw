@@ -59,6 +59,7 @@ hdmovie2.moe##H3[style='text-align: center;']
 hdmovie2.moe##DIV.sgeneros
 hdmovie2.moe##DIV.sidebar.right.scrolling
 
+tellyhd.club##div[class="wp-content"]
 tellyhd.club##DIV.letter_home
 tellyhd.club##DIV.nav
 tellyhd.club##DIV.logo
