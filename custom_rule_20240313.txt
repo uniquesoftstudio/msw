@@ -76,7 +76,6 @@ tellyhd.club##DIV.sgeneros
 tellyhd.club##DIV.custom_fields
 tellyhd.club##DIV#comments.extcom
 tellyhd.club##DIV.textwidget.custom-html-widget
-tellyhd.club##div[id="info"]
 
 mkvin.pics##DIV.nav
 mkvin.pics##DIV.letter_home
