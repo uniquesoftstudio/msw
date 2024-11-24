@@ -21,17 +21,17 @@ ixiporn.info##DIV#wrapper-footer
 ixiporn.info##DIV.hero-text
 ixiporn.info##A.logo-img[rel='home'][href='https://ixiporn.info/']
 
-watchofree.pro##DIV.alert-bottom[style='display: block;']
-watchofree.pro##DIV#st-2.st-sticky-share-buttons.st-left.st-toggleable.st-has-labels.st-show-total
-watchofree.pro##A#logo[href='https://watchofree.pro']
-watchofree.pro##DIV.mobile-menu
-watchofree.pro##DIV.header-logo
-watchofree.pro##SPAN.pull-left
-watchofree.pro##DIV#mv-keywords
-watchofree.pro##FOOTER
-watchofree.pro##DIV.desc[itemprop='description']
-watchofree.pro##DIV.test_container
-watchofree.pro##DIV#cookiedata.ann-home.alert.text-center[style=' font-size: 16px; font-weight: bold; background: #0c9c0f; color: #fff;']
+watchofree.online##DIV.alert-bottom[style='display: block;']
+watchofree.online##DIV#st-2.st-sticky-share-buttons.st-left.st-toggleable.st-has-labels.st-show-total
+watchofree.online##A#logo[href='https://watchofree.online']
+watchofree.online##DIV.mobile-menu
+watchofree.online##DIV.header-logo
+watchofree.online##SPAN.pull-left
+watchofree.online##DIV#mv-keywords
+watchofree.online##FOOTER
+watchofree.online##DIV.desc[itemprop='description']
+watchofree.online##DIV.test_container
+watchofree.online##DIV#cookiedata.ann-home.alert.text-center[style=' font-size: 16px; font-weight: bold; background: #0c9c0f; color: #fff;']
 
 watchomovies.info##DIV#st-2.st-sticky-share-buttons.st-left.st-toggleable.st-has-labels.st-show-total
 watchomovies.info##DIV.mobile-menu
