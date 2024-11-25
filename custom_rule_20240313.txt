@@ -148,3 +148,22 @@ moviehax.org##img[class="wp-image-87653"]
 moviehax.org##div[class="desc_category"]>p
 moviehax.org##nav[class="releases"]>h2
 
+
+multimovies.bond##div[id="ancr-553"]
+multimovies.bond##div[class="ancr-top-spacer"]
+multimovies.bond##img[alt="Multimovies"]
+multimovies.bond##a[class="aresp nav-resp"]
+multimovies.bond##div[class="logo"]
+multimovies.bond##div[id="info"]
+multimovies.bond##div[class="sbox"]
+multimovies.bond##div[class="linktabs"]
+multimovies.bond##div[class="dt-breadcrumb breadcrumb_bottom"]
+multimovies.bond##form[class="wp-block-search__button-inside wp-block-search__text-button wp-block-search"]
+multimovies.bond##div[class="sidebar right scrolling"]
+multimovies.bond##div[class="home-blog-post"]
+multimovies.bond##div[class="content right full"]>header
+multimovies.bond##div[class="sgeneros"]
+multimovies.bond##a[href$="network/mbs/"]
+multimovies.bond##a[href="#info"]
+multimovies.bond##a[href="#cast"]
+multimovies.bond##a[href="#trailer"]
