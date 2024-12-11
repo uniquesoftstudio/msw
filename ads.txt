@@ -1,3 +1,4 @@
+hdmovie.com##div[class="contenido"]
 hdmovie.com##img[alt="Hdmovie6"]
 hdmovie.com##a[class="aresp nav-resp"]
 hdmovie.com##div[class="logo"]
