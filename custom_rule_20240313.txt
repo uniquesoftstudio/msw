@@ -33,13 +33,13 @@ watchofree.online##DIV.desc[itemprop='description']
 watchofree.online##DIV.test_container
 watchofree.online##DIV#cookiedata.ann-home.alert.text-center[style=' font-size: 16px; font-weight: bold; background: #0c9c0f; color: #fff;']
 
-watchomovies.info##DIV#st-2.st-sticky-share-buttons.st-left.st-toggleable.st-has-labels.st-show-total
-watchomovies.info##DIV.mobile-menu
-watchomovies.info##A#logo[href='https://watchomovies.info']
-watchomovies.info##FOOTER
-watchomovies.info##DIV.test_container
-watchomovies.info##DIV.mvic-info
-watchomovies.info##DIV#mv-keywords
+watchomovies.vip##DIV#st-2.st-sticky-share-buttons.st-left.st-toggleable.st-has-labels.st-show-total
+watchomovies.vip##DIV.mobile-menu
+watchomovies.vip##A#logo[href='https://watchomovies.info']
+watchomovies.vip##FOOTER
+watchomovies.vip##DIV.test_container
+watchomovies.vip##DIV.mvic-info
+watchomovies.vip##DIV#mv-keywords
 
 hdmovie2.moe##DIV.nav
 hdmovie2.moe##DIV.logo
