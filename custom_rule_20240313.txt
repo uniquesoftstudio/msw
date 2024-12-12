@@ -40,6 +40,8 @@ watchomovies.vip##FOOTER
 watchomovies.vip##DIV.test_container
 watchomovies.vip##DIV.mvic-info
 watchomovies.vip##DIV#mv-keywords
+watchomovies.vip##div[id="cookiedata"]
+watchomovies.vip##a[id="logo"]
 
 hdmovie2.moe##DIV.nav
 hdmovie2.moe##DIV.logo
