@@ -176,6 +176,7 @@ multimovies.lat##a[href="#linksx"]
 multimovies.lat##span[class="tagline"]
 multimovies.lat##span[class="CN/A rated"]
 multimovies.lat##span[class="country"]
+multimovies.lat##div[id="comments"]
 
 bdixtv.com##img[class="logo"]
 bdixtv.com##header[class="main-nav clearfix is-sticky mb-3"]
