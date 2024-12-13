@@ -46,3 +46,18 @@ cinefreak.net##div[class="comment-message-box"]
 cinefreak.net##div[class="single-blog-left"]>hr
 cinefreak.net##div[class="single-service-content"]>hr
 cinefreak.net##section[id="recent-posts-4"]
+
+
+neodrive.xyz##div[class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-start"]>div
+neodrive.xyz##div[class="navbar-menu-wrapper d-flex"]
+neodrive.xyz##div[class="table-responsive"]>center
+neodrive.xyz##div[class="share-social-wrapper"]
+neodrive.xyz##footer[id="footer"]
+neodrive.xyz##div[class="card-header"]
+neodrive.xyz##a[class="btn btn-sm btn-danger rahim"]
+neodrive.xyz##button[id="download-button"]
+neodrive.xyz##div[class="card-body"]>center>p
+zencloud.systems##div[class="container main"]>center>h3
+zencloud.systems##span[class="m-5 font-weight-normal note-text"]>b
+zencloud.systems##a[class="btn btn-brand-02"]
+zencloud.systems##div[class="container main"]>center>hr
