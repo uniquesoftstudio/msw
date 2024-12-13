@@ -78,17 +78,17 @@ tellyhd.art##DIV.sgeneros
 tellyhd.art##DIV.custom_fields
 tellyhd.art##DIV#comments.extcom
 
-mkvin.pics##DIV.nav
-mkvin.pics##DIV.letter_home
-mkvin.pics##DIV.logo
-mkvin.pics##DIV.sidebar.right.scrolling
-mkvin.pics##DIV.single_tabs
-mkvin.pics##DIV.dt_social_single
-mkvin.pics##DIV#comments.comments-area
-mkvin.pics##DIV.dt-breadcrumb.breadcrumb_bottom
-mkvin.pics##DIV.sbox.srelacionados
-mkvin.pics##DIV.sgeneros
-mkvin.pics##DIV#info.sbox
+mkvin.bond##DIV.nav
+mkvin.bond##DIV.letter_home
+mkvin.bond##DIV.logo
+mkvin.bond##DIV.sidebar.right.scrolling
+mkvin.bond##DIV.single_tabs
+mkvin.bond##DIV.dt_social_single
+mkvin.bond##DIV#comments.comments-area
+mkvin.bond##DIV.dt-breadcrumb.breadcrumb_bottom
+mkvin.bond##DIV.sbox.srelacionados
+mkvin.bond##DIV.sgeneros
+mkvin.bond##DIV#info.sbox
 
 dotmovies.run##span[style^="font-family: "]
 dotmovies.run##div[class="entry-content "]>p
