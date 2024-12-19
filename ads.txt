@@ -70,3 +70,8 @@ yupmovie.in##div[class="ratings-time"]
 yupmovie.in##div[class="right-side"]>p
 yupmovie.in##div[class="shareInfoBox"]
 yupmovie.in##div[class="tvshows-global-info"]
+
+
+mafiatv.live##div[class="jw-logo jw-logo-top-left jw-hide jw-reset"]
+mafiatv.live##div[class="jw-icon jw-icon-inline jw-button-color jw-reset jw-settings-sharing"]
+mafiatv.live##div[class="popup"]
