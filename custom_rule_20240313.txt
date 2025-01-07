@@ -61,22 +61,22 @@ hdmovie2.moe##H3[style='text-align: center;']
 hdmovie2.moe##DIV.sgeneros
 hdmovie2.moe##DIV.sidebar.right.scrolling
 
-tellyhd.art##div[class="wp-content"]
-tellyhd.art##DIV.letter_home
-tellyhd.art##DIV.nav
-tellyhd.art##DIV.logo
-tellyhd.art##DIV.sidebar.right.scrolling
-tellyhd.art##DIV.dt_social_single
-tellyhd.art##UL.wp-tags
-tellyhd.art##DIV#dt_galery.galeria.owl-carousel.owl-theme[style='opacity: 1; display: block;']
-tellyhd.art##DIV.sbox.srelacionados
-tellyhd.art##DIV.dt-breadcrumb.breadcrumb_bottom
-tellyhd.art##H3[style='text-align: center;']
-tellyhd.art##H2
-tellyhd.art##DIV.single_tabs
-tellyhd.art##DIV.sgeneros
-tellyhd.art##DIV.custom_fields
-tellyhd.art##DIV#comments.extcom
+tellyhd.ink##div[class="wp-content"]
+tellyhd.ink##DIV.letter_home
+tellyhd.ink##DIV.nav
+tellyhd.ink##DIV.logo
+tellyhd.ink##DIV.sidebar.right.scrolling
+tellyhd.ink##DIV.dt_social_single
+tellyhd.ink##UL.wp-tags
+tellyhd.ink##DIV#dt_galery.galeria.owl-carousel.owl-theme[style='opacity: 1; display: block;']
+tellyhd.ink##DIV.sbox.srelacionados
+tellyhd.ink##DIV.dt-breadcrumb.breadcrumb_bottom
+tellyhd.ink##H3[style='text-align: center;']
+tellyhd.ink##H2
+tellyhd.ink##DIV.single_tabs
+tellyhd.ink##DIV.sgeneros
+tellyhd.ink##DIV.custom_fields
+tellyhd.ink##DIV#comments.extcom
 
 mkvin.bond##DIV.nav
 mkvin.bond##DIV.letter_home
