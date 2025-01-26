@@ -43,23 +43,23 @@ watchomovies.guru##DIV#mv-keywords
 watchomovies.guru##div[id="cookiedata"]
 watchomovies.guru##a[id="logo"]
 
-hdmovie2.moe##DIV.nav
-hdmovie2.moe##DIV.logo
-hdmovie2.moe##DIV.letter_home
-hdmovie2.moe##NAV.genres
-hdmovie2.moe##NAV.releases
-hdmovie2.moe##DIV.fixed-sidebar-blank
-hdmovie2.moe##DIV.dt_social_single
-hdmovie2.moe##DIV.sidebar.right.scrolling.mCustomScrollbar._mCS_1.mCS-autoHide.mCS_no_scrollbar[style='overflow: visible;']
-hdmovie2.vet##DIV.dt-breadcrumb.breadcrumb_bottom
-hdmovie2.moe##DIV#comments.comments-area
-hdmovie2.moe##DIV.sbox.srelacionados
-hdmovie2.moe##DIV#dt_galery.galeria.owl-carousel.owl-theme[style='opacity: 1; display: block;']
-hdmovie2.moe##DIV.single_tabs
-hdmovie2.moe##H2
-hdmovie2.moe##H3[style='text-align: center;']
-hdmovie2.moe##DIV.sgeneros
-hdmovie2.moe##DIV.sidebar.right.scrolling
+hdmovie2.photo##DIV.nav
+hdmovie2.photo##DIV.logo
+hdmovie2.photo##DIV.letter_home
+hdmovie2.photo##NAV.genres
+hdmovie2.photo##NAV.releases
+hdmovie2.photo##DIV.fixed-sidebar-blank
+hdmovie2.photo##DIV.dt_social_single
+hdmovie2.photo##DIV.sidebar.right.scrolling.mCustomScrollbar._mCS_1.mCS-autoHide.mCS_no_scrollbar[style='overflow: visible;']
+hdmovie2.photo##DIV.dt-breadcrumb.breadcrumb_bottom
+hdmovie2.photo##DIV#comments.comments-area
+hdmovie2.photo##DIV.sbox.srelacionados
+hdmovie2.photo##DIV#dt_galery.galeria.owl-carousel.owl-theme[style='opacity: 1; display: block;']
+hdmovie2.photo##DIV.single_tabs
+hdmovie2.photo##H2
+hdmovie2.photo##H3[style='text-align: center;']
+hdmovie2.photo##DIV.sgeneros
+hdmovie2.photo##DIV.sidebar.right.scrolling
 
 tellyhd.tv##div[class="wp-content"]
 tellyhd.tv##DIV.letter_home
