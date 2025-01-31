@@ -72,9 +72,6 @@ yupmovie.in##div[class="shareInfoBox"]
 yupmovie.in##div[class="tvshows-global-info"]
 
 
-mafiatv.live##div[class="jw-logo jw-logo-top-left jw-hide jw-reset"]
-mafiatv.live##div[class="jw-icon jw-icon-inline jw-button-color jw-reset jw-settings-sharing"]
-mafiatv.live##div[class="popup"]
 
 
 5movierulz.co.nl##header[id="branding"]
@@ -98,9 +95,22 @@ mafiatv.live##div[class="popup"]
 5movierulz.co.nl##a[href="/tamil-movies/"]
 5movierulz.co.nl##a[href="/telugu-movies-free-download/"]
 5movierulz.co.nl##span[style="color: #ff00ff;"]>p
-vod.mafiatv.live##div[class="telegram-icon"]
-vod.mafiatv.live##div[class="heading-container"]
 5movierulz.co.nl##div[id="adangle-wrapper-e3530db9-e3a5-4ec7-a94d-a79145d42422"]
 5movierulz.co.nl##div[id="adangle-e3530db9-e3a5-4ec7-a94d-a79145d42422"]
 5movierulz.co.nl##img[class="attachment-post-thumbnail size-post-thumbnail wp-post-image"]
 5movierulz.co.nl##span[style="color: #ff00ff;"]>center
+
+
+mafiatv.live##div[class="jw-logo jw-logo-top-left jw-hide jw-reset"]
+mafiatv.live##div[class="jw-icon jw-icon-inline jw-button-color jw-reset jw-settings-sharing"]
+mafiatv.live##div[class="popup"]
+mafiatv.live##img[alt="MafiaTV.live"]
+mafiatv.live##div[class="logo"]
+mafiatv.live##div[class="fixresp"]
+mafiatv.live##img[alt="Telegram"]
+mafiatv.live##a[class="whatsapp dt_social"]
+mafiatv.live##div[class="dt_social_single"]
+vod.mafiatv.live##nav[id="navbar"]
+vod.mafiatv.live##div[class="heading"]
+vod.mafiatv.live##div[class="telegram-icon"]
+vod.mafiatv.live##div[class="watermark"]
