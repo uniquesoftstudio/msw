@@ -1,5 +1,4 @@
-new.msw-app.com##marquee[style="transform: translateY(-8.4rem); color: #D03030; font-weight: bold; font-size: 15px;"]
-new.msw-app.com##img[src$="images/icons/home.png"]
+
 
 imotv.online##h2[class="block-title border border-danger p-3"]
 imotv.online##div[class="main-footer mt-5"]
@@ -33,15 +32,15 @@ watchofree.online##DIV.desc[itemprop='description']
 watchofree.online##DIV.test_container
 watchofree.online##DIV#cookiedata.ann-home.alert.text-center[style=' font-size: 16px; font-weight: bold; background: #0c9c0f; color: #fff;']
 
-watchomovies.guru##DIV#st-2.st-sticky-share-buttons.st-left.st-toggleable.st-has-labels.st-show-total
-watchomovies.guru##DIV.mobile-menu
-watchomovies.guru##A#logo[href='https://watchomovies.info']
-watchomovies.guru##FOOTER
-watchomovies.guru##DIV.test_container
-watchomovies.guru##DIV.mvic-info
-watchomovies.guru##DIV#mv-keywords
-watchomovies.guru##div[id="cookiedata"]
-watchomovies.guru##a[id="logo"]
+watchomovies.autos##DIV#st-2.st-sticky-share-buttons.st-left.st-toggleable.st-has-labels.st-show-total
+watchomovies.autos##DIV.mobile-menu
+watchomovies.autos##A#logo[href='https://watchomovies.autos']
+watchomovies.autos##FOOTER
+watchomovies.autos##DIV.test_container
+watchomovies.autos##DIV.mvic-info
+watchomovies.autos##DIV#mv-keywords
+watchomovies.autos##div[id="cookiedata"]
+watchomovies.autos##a[id="logo"]
 
 hdmovie2.photo##DIV.nav
 hdmovie2.photo##DIV.logo
@@ -177,12 +176,3 @@ multimovies.lat##span[class="tagline"]
 multimovies.lat##span[class="CN/A rated"]
 multimovies.lat##span[class="country"]
 multimovies.lat##div[id="comments"]
-
-bdixtv.com##img[class="logo"]
-bdixtv.com##header[class="main-nav clearfix is-sticky mb-3"]
-bdixtv.com##div[class="main-footer mt-5"]
-bdixtv.com##h2[class="block-title border border-danger p-3"]
-bdixtv.com##div[class="main-card"]
-bdixtv.com##h2[class="block-title mt-5"]
-bdixtv.com##img[class="ml-3 clogo"]
-bdixtv.com##div[class="back-to-top"]
