@@ -125,3 +125,15 @@ sportstvn.com##div[class="site-below-footer-wrap ast-builder-grid-row-container 
 sportstvn.com##div[class="elementor-element elementor-element-0108879 elementor-widget elementor-widget-html"]
 sportstvn.com##div[class="elementor-element elementor-element-728cb15 e-con-full e-flex e-con e-child"]
 sportstvn.com##div[class="elementor-element elementor-element-f23d006 e-con-full e-flex e-con e-child"]
+
+
+
+
+tooniboy.com##div[class="epsdcrnt secondary-bg pd mab1 brd1"]>p
+tooniboy.com##div[style="text-align:center; background-color:black; padding:10px; margin:0;"]
+tooniboy.com##div[style="text-align: center; background-color: black; padding: 10px; margin: 0px;"]
+tooniboy.com##ul[class="az-lst dfx fwp"]
+tooniboy.com##aside[x-data^="{ tab: "]
+tooniboy.com##div[class="entry secondary-bg pd1 xl-pd2 white-co brd1"]
+tooniboy.com##a[class="op7 op1h fz3 sm-fz5 mar sm-mar1 white-co-h"]
+tooniboy.com##img[class="custom-logo"]
