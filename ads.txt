@@ -114,3 +114,14 @@ vod.mafiatv.live##nav[id="navbar"]
 vod.mafiatv.live##div[class="heading"]
 vod.mafiatv.live##div[class="telegram-icon"]
 vod.mafiatv.live##div[class="watermark"]
+
+
+
+
+sportstvn.com##header[id="masthead"]
+sportstvn.com##div[class="elementor-element elementor-element-1cb9868 e-con-full main_sidebar e-flex e-con e-child"]
+sportstvn.com##a[href$="sportstvncc"]
+sportstvn.com##div[class="site-below-footer-wrap ast-builder-grid-row-container site-footer-focus-item ast-builder-grid-row-full ast-builder-grid-row-tablet-full ast-builder-grid-row-mobile-full ast-footer-row-stack ast-footer-row-tablet-stack ast-footer-row-mobile-stack"]
+sportstvn.com##div[class="elementor-element elementor-element-0108879 elementor-widget elementor-widget-html"]
+sportstvn.com##div[class="elementor-element elementor-element-728cb15 e-con-full e-flex e-con e-child"]
+sportstvn.com##div[class="elementor-element elementor-element-f23d006 e-con-full e-flex e-con e-child"]
