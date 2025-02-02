@@ -137,3 +137,9 @@ tooniboy.com##aside[x-data^="{ tab: "]
 tooniboy.com##div[class="entry secondary-bg pd1 xl-pd2 white-co brd1"]
 tooniboy.com##a[class="op7 op1h fz3 sm-fz5 mar sm-mar1 white-co-h"]
 tooniboy.com##img[class="custom-logo"]
+
+
+ryderjet.com##div[class="jw-logo jw-logo-top-left jw-reset"]
+ryderjet.com##div[class="jw-icon jw-icon-inline jw-button-color jw-reset jw-icon-pip"]
+ryderjet.com##div[class="jw-icon jw-icon-inline jw-button-color jw-reset jw-settings-sharing"]
+ryderjet.com##div[class="jw-icon jw-icon-inline jw-button-color jw-reset jw-settings-sharing jw-submenu-sharing"]
