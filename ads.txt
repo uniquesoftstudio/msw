@@ -21,6 +21,27 @@ hdmovie.com##div[class="sgeneros"]
 hdmovie.com##span[class="CNot Rated rated"]
 hdmovie.com##span[class="country"]
 
+
+
+
+hdmovie.net##img[alt="Hdmovie6"]
+hdmovie.net##a[class="aresp nav-resp"]
+hdmovie.net##div[class="logo"]
+hdmovie.net##div[class="fixresp"]
+hdmovie.net##nav[class="releases"]
+hdmovie.net##div[id="comments"]
+hdmovie.net##div[class="dt-breadcrumb breadcrumb_bottom"]
+hdmovie.net##div[class="sbox"]
+hdmovie.net##div[class="single_tabs"]
+hdmovie.net##div[class="sgeneros"]
+hdmovie.net##h2[class="widget-title"]
+hdmovie.net##nav[class="genres"]
+hdmovie.net##div[class="sbox srelacionados"]
+
+
+
+
+
 cinefreak.net##div[class="alert-popup-inner"]>p
 cinefreak.net##a[class="popup_btn"]
 cinefreak.net##span[style="color:black;"]
