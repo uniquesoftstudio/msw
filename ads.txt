@@ -199,3 +199,14 @@ ymaal.com##button[id="followx"]
 ymaal.com##a[class="sdl"]
 ymaal.com##div[class="ytdes"]
 ymaal.com##div[class="comments-section"]
+
+
+
+anime-world.in##img[src$="wp-content/uploads/AWI-SiteTitle-1.png"]
+anime-world.in##span[class="button-icon"]
+anime-world.in##ul[class="ulbotoes"]
+anime-world.in##footer[class="ft tac"]
+anime-world.in##ul[class="az-lst dfx fwp"]
+anime-world.in##h3[class="widget-title"]
+anime-world.in##div[id="comments"]
+anime-world.in##aside[class="fg1"]
