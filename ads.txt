@@ -163,7 +163,7 @@ mkvfun.vip##div[class="sgeneros"]
 
 
 
-
+ymaal.com##div[class="catdesc"]>p
 ymaal.com##span[class="bannerx"]
 ymaal.com##div[class="fmenu"]
 ymaal.com##i[class="uil uil-moon"]
