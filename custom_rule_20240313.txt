@@ -10,6 +10,10 @@ imotv.online##div[class="back-to-top"]
 imotv.online##img[class="logo"]
 imotv.online##header[class="main-nav clearfix is-sticky mb-3"]
 
+
+
+
+ixiporn.info##section[id="custom_html-11"]
 ixiporn.info##BUTTON.navbar-toggler.hamburger.hamburger--slider[type='button'][data-toggle='collapse'][data-target='#navbarNavDropdown'][aria-controls='navbarNavDropdown'][aria-expanded='false'][aria-label='Toggle navigation']
 ixiporn.info##H1.widget-title.mt-4
 ixiporn.info##DIV.video-actions-content
