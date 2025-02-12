@@ -160,3 +160,21 @@ mkvfun.vip##div[id="info"]
 mkvfun.vip##div[class="single_tabs"]
 mkvfun.vip##div[class="sbox"]
 mkvfun.vip##div[class="sgeneros"]
+
+
+
+
+ymaal.com##span[class="bannerx"]
+ymaal.com##div[class="fmenu"]
+ymaal.com##i[class="uil uil-moon"]
+ymaal.com##button[class="nav-button theme-button"]
+ymaal.com##h2[class="logo-text"]
+ymaal.com##img[class="logo-image"]
+ymaal.com##i[class="uil uil-bars"]
+ymaal.com##button[class="nav-button menu-button"]
+ymaal.com##a[id="share"]
+ymaal.com##button[id="subscribe-category"]
+ymaal.com##button[id="followx"]
+ymaal.com##a[class="sdl"]
+ymaal.com##div[class="ytdes"]
+ymaal.com##div[class="comments-section"]
