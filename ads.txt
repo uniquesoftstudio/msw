@@ -210,3 +210,28 @@ anime-world.in##ul[class="az-lst dfx fwp"]
 anime-world.in##h3[class="widget-title"]
 anime-world.in##div[id="comments"]
 anime-world.in##aside[class="fg1"]
+
+
+
+
+animedekho.net##header[class="hd"]
+animedekho.net##div[class="bot"]
+animedekho.net##div[class="top"]
+animedekho.net##div[class="schedule1"]
+animedekho.net##section[class="section comments"]
+animedekho.net##nav[class="navbar navbar-expand-lg navbar-light bg-white border-bottom border-light fixed-top"]
+animedekho.net##div[class="container py-3"]
+animedekho.net##div[class="cvd-880"]
+animedekho.net##ul[class="rw jst-sb alg-cr"]
+animedekho.net##article[class="post single"]>center>h3
+animedekho.net##li[class="rw sm"]>span
+animedekho.net##div[class="entry-content"]>p
+animedekho.net##h3[class="section-title"]
+animedekho.net##div[class="tags"]
+animedekho.net##a[class="button45"]
+animedekho.net##div[class="bd cont"]>center>p
+animedekho.net##h1[class="dlinks"]
+animedekho.net##div[class="dvr-728"]
+animedekho.net##ul[class="rw sm"]
+animedekho.net##li[class="aa-drp mr1 fil-yea"]
+animedekho.net##li[class="aa-drp mr1"]
