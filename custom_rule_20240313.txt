@@ -1,15 +1,17 @@
 
 
-imotv.online##h2[class="block-title border border-danger p-3"]
-imotv.online##div[class="main-footer mt-5"]
-imotv.online##a[href="../category/indian-bangla-channel"]
-imotv.online##div[class="small-cards"]
-imotv.online##div[class="main-card"]
-imotv.online##h2[class="block-title mt-5"]
-imotv.online##div[class="back-to-top"]
-imotv.online##img[class="logo"]
-imotv.online##header[class="main-nav clearfix is-sticky mb-3"]
-
+streamoporn.cam##div[id="filters"]
+streamoporn.cam##div[class="st-btn st-last"]
+streamoporn.cam##div[class="st-btn"]
+streamoporn.cam##div[class="st-btn st-first"]
+streamoporn.cam##div[id="st-2"]
+streamoporn.cam##a[id="back-to-top"]
+streamoporn.cam##div[class="site-info"]
+streamoporn.cam##p[class="archive-description"]
+streamoporn.cam##footer[id="colophon"]
+streamoporn.cam##h1[class="homepage-title"]
+streamoporn.cam##div[class="video-infos"]
+streamoporn.cam##div[class="video-tags"]
 
 
 
