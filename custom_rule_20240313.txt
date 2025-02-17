@@ -36,15 +36,15 @@ watchofree.online##DIV.desc[itemprop='description']
 watchofree.online##DIV.test_container
 watchofree.online##DIV#cookiedata.ann-home.alert.text-center[style=' font-size: 16px; font-weight: bold; background: #0c9c0f; color: #fff;']
 
-watchomovies.autos##DIV#st-2.st-sticky-share-buttons.st-left.st-toggleable.st-has-labels.st-show-total
-watchomovies.autos##DIV.mobile-menu
-watchomovies.autos##A#logo[href='https://watchomovies.autos']
-watchomovies.autos##FOOTER
-watchomovies.autos##DIV.test_container
-watchomovies.autos##DIV.mvic-info
-watchomovies.autos##DIV#mv-keywords
-watchomovies.autos##div[id="cookiedata"]
-watchomovies.autos##a[id="logo"]
+watchomovies.living##DIV#st-2.st-sticky-share-buttons.st-left.st-toggleable.st-has-labels.st-show-total
+watchomovies.living##DIV.mobile-menu
+watchomovies.living##A#logo[href='https://watchomovies.living']
+watchomovies.living##FOOTER
+watchomovies.living##DIV.test_container
+watchomovies.living##DIV.mvic-info
+watchomovies.living##DIV#mv-keywords
+watchomovies.living##div[id="cookiedata"]
+watchomovies.living##a[id="logo"]
 
 hdmovie2.photo##DIV.nav
 hdmovie2.photo##DIV.logo
