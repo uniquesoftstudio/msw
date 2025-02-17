@@ -1,20 +1,5 @@
 
 
-streamoporn.cam##div[id="filters"]
-streamoporn.cam##div[class="st-btn st-last"]
-streamoporn.cam##div[class="st-btn"]
-streamoporn.cam##div[class="st-btn st-first"]
-streamoporn.cam##div[id="st-2"]
-streamoporn.cam##a[id="back-to-top"]
-streamoporn.cam##div[class="site-info"]
-streamoporn.cam##p[class="archive-description"]
-streamoporn.cam##footer[id="colophon"]
-streamoporn.cam##h1[class="homepage-title"]
-streamoporn.cam##div[class="video-infos"]
-streamoporn.cam##div[class="video-tags"]
-
-
-
 ixiporn.info##section[id="custom_html-11"]
 ixiporn.info##BUTTON.navbar-toggler.hamburger.hamburger--slider[type='button'][data-toggle='collapse'][data-target='#navbarNavDropdown'][aria-controls='navbarNavDropdown'][aria-expanded='false'][aria-label='Toggle navigation']
 ixiporn.info##H1.widget-title.mt-4
