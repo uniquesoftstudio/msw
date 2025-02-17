@@ -1,3 +1,22 @@
+streamoporn.cam##div[id="filters"]
+streamoporn.cam##div[class="st-btn st-last"]
+streamoporn.cam##div[class="st-btn"]
+streamoporn.cam##div[class="st-btn st-first"]
+streamoporn.cam##div[id="st-2"]
+streamoporn.cam##a[id="back-to-top"]
+streamoporn.cam##div[class="site-info"]
+streamoporn.cam##p[class="archive-description"]
+streamoporn.cam##footer[id="colophon"]
+streamoporn.cam##h1[class="homepage-title"]
+streamoporn.cam##div[class="video-infos"]
+streamoporn.cam##div[class="video-tags"]
+
+
+
+
+
+
+
 hdmovie.com##div[class="contenido"]
 hdmovie.com##img[alt="Hdmovie6"]
 hdmovie.com##a[class="aresp nav-resp"]
