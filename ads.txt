@@ -249,7 +249,7 @@ animedekho.net##ul[class="rw sm"]
 animedekho.net##li[class="aa-drp mr1 fil-yea"]
 animedekho.net##li[class="aa-drp mr1"]
 
-
+moviebox.ng##div[class="download-card mask"]
 moviebox.ng##div[class="ad-card"]
 moviebox.ng##div[class="download-card"]
 moviebox.ng##footer[class="flx-clm-ce"]
