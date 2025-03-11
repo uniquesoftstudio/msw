@@ -51,22 +51,22 @@ hdmovie2.photo##H3[style='text-align: center;']
 hdmovie2.photo##DIV.sgeneros
 hdmovie2.photo##DIV.sidebar.right.scrolling
 
-tellyhd.lu##div[class="wp-content"]
-tellyhd.lu##DIV.letter_home
-tellyhd.lu##DIV.nav
-tellyhd.lu##DIV.logo
-tellyhd.lu##DIV.sidebar.right.scrolling
-tellyhd.lu##DIV.dt_social_single
-tellyhd.lu##UL.wp-tags
-tellyhd.lu##DIV#dt_galery.galeria.owl-carousel.owl-theme[style='opacity: 1; display: block;']
-tellyhd.lu##DIV.sbox.srelacionados
-tellyhd.lu##DIV.dt-breadcrumb.breadcrumb_bottom
-tellyhd.lu##H3[style='text-align: center;']
-tellyhd.lu##H2
-tellyhd.lu##DIV.single_tabs
-tellyhd.lu##DIV.sgeneros
-tellyhd.lu##DIV.custom_fields
-tellyhd.lu##DIV#comments.extcom
+tellyhd.one##div[class="wp-content"]
+tellyhd.one##DIV.letter_home
+tellyhd.one##DIV.nav
+tellyhd.one##DIV.logo
+tellyhd.one##DIV.sidebar.right.scrolling
+tellyhd.one##DIV.dt_social_single
+tellyhd.one##UL.wp-tags
+tellyhd.one##DIV#dt_galery.galeria.owl-carousel.owl-theme[style='opacity: 1; display: block;']
+tellyhd.one##DIV.sbox.srelacionados
+tellyhd.one##DIV.dt-breadcrumb.breadcrumb_bottom
+tellyhd.one##H3[style='text-align: center;']
+tellyhd.one##H2
+tellyhd.one##DIV.single_tabs
+tellyhd.one##DIV.sgeneros
+tellyhd.one##DIV.custom_fields
+tellyhd.one##DIV#comments.extcom
 
 mkvin.bond##DIV.nav
 mkvin.bond##DIV.letter_home
@@ -110,54 +110,54 @@ play.niazitv.pk##button[class="uk-button uk-button-default uk-margin-medium-bott
 play.niazitv.pk##h1[class="uk-heading-small pagetitle"]
 play.niazitv.pk##a[class="uk-button uk-button-primary uk-button-active uk-button-large uk-width-1-1 uk-margin-top"]
 
-moviehax.net##div[id="wpfront-notification-bar-spacer"]
-moviehax.net##h1[style="text-align: center;"]
-moviehax.net##div[class="fixresp"]
-moviehax.net##img[class="wp-image-87653"]
-moviehax.net##div[class="desc_category"]>p
-moviehax.net##nav[class="releases"]
-moviehax.net##img[class="wp-image-87653 mCS_img_loaded"]
-moviehax.net##a[class="aresp nav-resp"]
-moviehax.net##img[alt="Moviehax"]
-moviehax.net##div[class="logo"]
-moviehax.net##a[href="#cast"]
-moviehax.net##ul[id="section"]
-moviehax.net##div[class="sbox"]
-moviehax.net##div[id="disqus_thread"]
-moviehax.net##img[class="wp-image-87653"]
-moviehax.net##div[class="dt-breadcrumb breadcrumb_bottom"]
-moviehax.net##div[class="sidebar right scrolling"]
-moviehax.net##div[class="sgeneros"]
-moviehax.net##div[class="extra"]
-moviehax.net##div[class="contenido"]>p
-moviehax.net##div[id="mCSB_1_container"]
-moviehax.net##div[class="sidebar right scrolling mCustomScrollbar _mCS_1 mCS-autoHide mCS_no_scrollbar"]
-moviehax.net##div[id="comments"]
-moviehax.net##ul[class="releases falsescroll"]
-moviehax.net##nav[class="genres"]
-moviehax.net##img[class="wp-image-87653"]
-moviehax.net##div[class="desc_category"]>p
-moviehax.net##nav[class="releases"]>h2
+moviehax.live##div[id="wpfront-notification-bar-spacer"]
+moviehax.live##h1[style="text-align: center;"]
+moviehax.live##div[class="fixresp"]
+moviehax.live##img[class="wp-image-87653"]
+moviehax.live##div[class="desc_category"]>p
+moviehax.live##nav[class="releases"]
+moviehax.live##img[class="wp-image-87653 mCS_img_loaded"]
+moviehax.live##a[class="aresp nav-resp"]
+moviehax.live##img[alt="Moviehax"]
+moviehax.live##div[class="logo"]
+moviehax.live##a[href="#cast"]
+moviehax.live##ul[id="section"]
+moviehax.live##div[class="sbox"]
+moviehax.live##div[id="disqus_thread"]
+moviehax.live##img[class="wp-image-87653"]
+moviehax.live##div[class="dt-breadcrumb breadcrumb_bottom"]
+moviehax.live##div[class="sidebar right scrolling"]
+moviehax.live##div[class="sgeneros"]
+moviehax.live##div[class="extra"]
+moviehax.live##div[class="contenido"]>p
+moviehax.live##div[id="mCSB_1_container"]
+moviehax.live##div[class="sidebar right scrolling mCustomScrollbar _mCS_1 mCS-autoHide mCS_no_scrollbar"]
+moviehax.live##div[id="comments"]
+moviehax.live##ul[class="releases falsescroll"]
+moviehax.live##nav[class="genres"]
+moviehax.live##img[class="wp-image-87653"]
+moviehax.live##div[class="desc_category"]>p
+moviehax.live##nav[class="releases"]>h2
 
 
-multimovies.life##div[id="ancr-553"]
-multimovies.life##div[class="ancr-top-spacer"]
-multimovies.life##img[alt="Multimovies"]
-multimovies.life##a[class="aresp nav-resp"]
-multimovies.life##nav[class="releases"]
-multimovies.life##aside[id="block-21"]
-multimovies.life##form[class="wp-block-search__button-inside wp-block-search__text-button wp-block-search"]
-multimovies.life##div[class="dt_social_single"]
-multimovies.life##aside[id="block-19"]
-multimovies.life##div[class="dt-breadcrumb breadcrumb_bottom"]
-multimovies.life##div[id="comments"]
-multimovies.life##div[class="sbox srelacionados"]
-multimovies.life##div[id="info"]
-multimovies.life##div[class="module_single_ads"]
-multimovies.life##a[href="#info"]
-multimovies.life##a[href="#cast"]
-multimovies.life##a[href="#trailer"]
-multimovies.life##div[class="sbox"]
-multimovies.life##div[class="sidebar right scrolling"]
-multimovies.life##div[class="linktabs"]
-multimovies.life##a[class="selected"]
+multimovies.world##div[id="ancr-553"]
+multimovies.world##div[class="ancr-top-spacer"]
+multimovies.world##img[alt="Multimovies"]
+multimovies.world##a[class="aresp nav-resp"]
+multimovies.world##nav[class="releases"]
+multimovies.world##aside[id="block-21"]
+multimovies.world##form[class="wp-block-search__button-inside wp-block-search__text-button wp-block-search"]
+multimovies.world##div[class="dt_social_single"]
+multimovies.world##aside[id="block-19"]
+multimovies.world##div[class="dt-breadcrumb breadcrumb_bottom"]
+multimovies.world##div[id="comments"]
+multimovies.world##div[class="sbox srelacionados"]
+multimovies.world##div[id="info"]
+multimovies.world##div[class="module_single_ads"]
+multimovies.world##a[href="#info"]
+multimovies.world##a[href="#cast"]
+multimovies.world##a[href="#trailer"]
+multimovies.world##div[class="sbox"]
+multimovies.world##div[class="sidebar right scrolling"]
+multimovies.world##div[class="linktabs"]
+multimovies.world##a[class="selected"]
