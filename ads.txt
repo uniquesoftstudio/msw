@@ -182,20 +182,20 @@ ryderjet.com##div[class="jw-icon jw-icon-inline jw-button-color jw-reset jw-sett
 
 
 
-mkvfun.vip##img[alt="MKVFUN"]
-mkvfun.vip##a[class="aresp nav-resp"]
-mkvfun.vip##div[class="logo"]
-mkvfun.vip##a[class="lglossary"]
-mkvfun.vip##div[class="fixresp"]
-mkvfun.vip##nav[class="genres"]
-mkvfun.vip##nav[class="releases"]
-mkvfun.vip##div[class="dt_social_single"]
-mkvfun.vip##div[class="dt-breadcrumb breadcrumb_bottom"]
-mkvfun.vip##div[id="comments"]
-mkvfun.vip##div[id="info"]
-mkvfun.vip##div[class="single_tabs"]
-mkvfun.vip##div[class="sbox"]
-mkvfun.vip##div[class="sgeneros"]
+mkvfun.my##img[alt="MKVFUN"]
+mkvfun.my##a[class="aresp nav-resp"]
+mkvfun.my##div[class="logo"]
+mkvfun.my##a[class="lglossary"]
+mkvfun.my##div[class="fixresp"]
+mkvfun.my##nav[class="genres"]
+mkvfun.my##nav[class="releases"]
+mkvfun.my##div[class="dt_social_single"]
+mkvfun.my##div[class="dt-breadcrumb breadcrumb_bottom"]
+mkvfun.my##div[id="comments"]
+mkvfun.my##div[id="info"]
+mkvfun.my##div[class="single_tabs"]
+mkvfun.my##div[class="sbox"]
+mkvfun.my##div[class="sgeneros"]
 
 
 
