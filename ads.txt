@@ -270,3 +270,11 @@ moviebox.ng##DIV.flx-clm-sta.menu[data-v-88f367d8]
 moviebox.ng##img[class="slide-nav-icon"]
 moviebox.ng##header[class="header fix-header"]
 moviebox.ng##img[src$="tUjGhCx+MvVFH4nFzgVGwyB4bnZQ9pXQVpNoTP6pxR60j0X2IjOluiFICmnao82MPsb0WderONxU9l/bgof6ovN8RgfsfYqAgVn1w2xjQPEVXEvq/gAeYMlljYVqAnv3P0ACqIQJS/qEQbjQ8usbKEMJjPJFOSOB0zXErqBPaNASA9dMQNvzyN0igaCaSj1l4HpAQ/kC7xI0j9leyoC5aoJuWnoXBg1KU5HVuQak6Fg1evelp7rKwIsrv359IrUkoJtT68vXAVp+eWsC7NMQBO+NBTzP7vcKiui0hFYZzACdn+EGf0nwntQmqloVkAX0brAwvyQJ2s65XFpGNDW82kASc7AI6MuMdkOOZGvLSOZjzly5LNF4QCO+5H1lKMXUgztGH9HTRofS+xrLDYnglGgoY4qeFMzsGLgwf2wP3AO+AdndWGdNMQiUAAAAAElFTkSuQmCC"]
+moviebox.ng##div[class="flx-ce-ce middle-download"]
+moviebox.ng##div[class="flx-ce-sta mv-logo"]>span
+moviebox.ng##div[class="download-tab flx-ce-sta"]
+moviebox.ng##div[class="box flx-ce-bet"]
+moviebox.ng##div[class="flx-ce-ce masker"]
+moviebox.ng##div[class="flx-ce-ce btn"]
+
+
