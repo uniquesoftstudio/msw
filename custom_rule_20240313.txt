@@ -51,22 +51,25 @@ hdmovie2.photo##H3[style='text-align: center;']
 hdmovie2.photo##DIV.sgeneros
 hdmovie2.photo##DIV.sidebar.right.scrolling
 
-tellyhd.blog##div[class="wp-content"]
-tellyhd.blog##DIV.letter_home
-tellyhd.blog##DIV.nav
-tellyhd.blog##DIV.logo
-tellyhd.blog##DIV.sidebar.right.scrolling
-tellyhd.blog##DIV.dt_social_single
-tellyhd.blog##UL.wp-tags
-tellyhd.blog##DIV#dt_galery.galeria.owl-carousel.owl-theme[style='opacity: 1; display: block;']
-tellyhd.blog##DIV.sbox.srelacionados
-tellyhd.blog##DIV.dt-breadcrumb.breadcrumb_bottom
-tellyhd.blog##H3[style='text-align: center;']
-tellyhd.blog##H2
-tellyhd.blog##DIV.single_tabs
-tellyhd.blog##DIV.sgeneros
-tellyhd.blog##DIV.custom_fields
-tellyhd.blog##DIV#comments.extcom
+
+tellyhd.wiki##div[class="wp-content"]
+tellyhd.wiki##DIV.letter_home
+tellyhd.wiki##DIV.nav
+tellyhd.wiki##DIV.logo
+tellyhd.wiki##DIV.sidebar.right.scrolling
+tellyhd.wiki##DIV.dt_social_single
+tellyhd.wiki##UL.wp-tags
+tellyhd.wiki##DIV#dt_galery.galeria.owl-carousel.owl-theme[style='opacity: 1; display: block;']
+tellyhd.wiki##DIV.sbox.srelacionados
+tellyhd.wiki##DIV.dt-breadcrumb.breadcrumb_bottom
+tellyhd.wiki##H3[style='text-align: center;']
+tellyhd.wiki##H2
+tellyhd.wiki##DIV.single_tabs
+tellyhd.wiki##DIV.sgeneros
+tellyhd.wiki##DIV.custom_fields
+tellyhd.wiki##DIV#comments.extcom
+
+
 
 mkvin.bond##DIV.nav
 mkvin.bond##DIV.letter_home
