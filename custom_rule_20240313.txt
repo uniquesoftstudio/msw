@@ -68,7 +68,8 @@ tellyhd.wiki##DIV.single_tabs
 tellyhd.wiki##DIV.sgeneros
 tellyhd.wiki##DIV.custom_fields
 tellyhd.wiki##DIV#comments.extcom
-
+tellyhd.wiki##div[style="width: inherit; height: inherit; overflow: hidden;"]
+tellyhd.wiki##div[class="D1BnW"]
 
 
 mkvin.bond##DIV.nav
