@@ -1,19 +1,5 @@
 flixsix.com##I#e7f0
 
-
-watchomovies.boats##div[class="header-logo"]
-watchomovies.boats##div[class="mobile-menu"]
-watchomovies.boats##html[xmlns="http://www.w3.org/1999/xhtml"]>body>footer
-watchomovies.boats##div[id="cookiedata"]
-watchomovies.boats##div[class="desc"]
-watchomovies.boats##div[class="mvic-info"]
-watchomovies.boats##ul[id="rowTab"]
-watchomovies.boats##span[class="lnk lnk-title"]
-watchomovies.boats##span[class="lnk lnk-dl"]
-watchomovies.boats##div[class="ml-title ml-title-page"]>span
-watchomovies.boats##div[class="content-kuss"]
-
-
 streamoporn.cam##div[class="logo"]
 streamoporn.cam##div[class="button-nav"]
 streamoporn.cam##div[id="filters"]
