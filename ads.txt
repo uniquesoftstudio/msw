@@ -1,3 +1,30 @@
+netfree.cc##p[class="desc"]
+netfree.cc##button[style="margin-top: 10px;"]
+netfree.cc##div[class="info2"]>h3
+netfree.cc##h1[style="color: yellow;"]
+netfree.cc##button[class="open-support checker"]>span
+netfree.cc##a[style="color: #06b900;text-decoration: none;display: flex;align-items: center;"]
+netfree.cc##a[href="/mobile/"]
+netfree.cc##div[class="r2"]
+netfree.cc##div[class="r1"]
+netfree.cc##div[class="r3"]
+netfree.cc##button[class="open-support checker"]
+netfree.cc##div[class="r7"]
+netfree.cc##div[class="r5"]
+netfree.cc##div[class="account"]
+netfree.cc##div[class="nav-logo"]
+netfree.cc##div[class="iconClass disneyplus"]
+netfree.cc##div[class="dlappmsg"]
+netfree.cc##div[class="note-msg"]
+netfree.cc##li[class="link-container active"]
+netfree.cc##a[class="nav-link setting-btn"]>div
+netfree.cc##li[class="link-container"]
+netfree.cc##div[role="navigation"]>ul
+netfree.cc##div[class="bottom-navigation-container"]
+netfree.cc##div[class="model-btn-download"]
+netfree.cc##div[class="btn-vertical"]
+netfree.cc##ion-row[class="ion-align-items-center model-rating-box"]
+
 flixsix.com##I#e7f0
 
 streamoporn.cam##div[class="logo"]
